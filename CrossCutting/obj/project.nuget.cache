@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "5Ib/iBYLOM80oEmYxL/T7aiHqGz0RTZr2ZyJ40EBH+nGwI5tgXFqAmUS4pJhS0ok4vfISt971X8OPEpX4nxVsg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\anabr\\source\\repos\\TesteIagro\\CrossCutting\\CrossCutting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anabr\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.8\\microsoft.extensions.dependencyinjection.3.1.8.nupkg.sha512",
+    "C:\\Users\\anabr\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.8\\microsoft.extensions.dependencyinjection.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\anabr\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

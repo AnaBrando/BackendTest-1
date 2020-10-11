@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "wgB2aL7crizbf2wmFLD2MlELN/c91uvm06N/adH9EPbAsxqUHSFih1DJdsJQmRpN030b1bIbwdHKcLI1wsSQrQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\anabr\\source\\repos\\TesteIagro\\TesteIagro\\TesteIagro.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anabr\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\3.1.8\\microsoft.extensions.dependencyinjection.3.1.8.nupkg.sha512",
+    "C:\\Users\\anabr\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.8\\microsoft.extensions.dependencyinjection.abstractions.3.1.8.nupkg.sha512",
+    "C:\\Users\\anabr\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

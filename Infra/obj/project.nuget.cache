@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4u/Wj8br032Hqe91/1rZXBH8n+qA1EJyGMuN/W+72pD6sBXtfwMfLvv2kcnvzkVGPUwCPaiE2TOtdVmuFI+08g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\anabr\\source\\repos\\TesteIagro\\Infra\\Infra.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anabr\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
